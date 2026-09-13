@@ -183,8 +183,8 @@ prices.
 
   Service                                                Price
   -------------------------------------- ---------------------
-  Normal                                             UGX 5,000
-  Foot Scrub                               UGX 15,000 / 25,000
+  Normal                                             UGX 10,000
+  Foot Scrub                               UGX 20,000–25,000
   Gel Colors Only                                   UGX 20,000
   Gel Builder                                       UGX 35,000
   Artificial Nails + Gel Builder + Gel              UGX 70,000
@@ -230,7 +230,7 @@ spelling.
 
 Do not convert ranges into a single fixed price.
 
-Examples: - Foot Scrub → `UGX 15,000 – 25,000` or
+Examples: - Foot Scrub → `UGX 20,000–25,000`
 `UGX 15,000 / 25,000` - Natural Leave-in Treatments → preserve
 `UGX 25,000 / 30,000` unless the client later explains the variants. -
 Hair Retouching → `Price varies` or `Ask for price`.
