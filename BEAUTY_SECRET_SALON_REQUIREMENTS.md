@@ -15,7 +15,7 @@
 
 -   **Business name:** Beauty Secret Salon
 -   **Business type:** Unisex hair and beauty salon
--   **Location:** Kisaasi--Kyanja Road, Kampala, Uganda
+-   **Location:** Kisaasi--Kyanja Road, at the junction to Komamboga, opposite Prime Petrol Station, Kampala, Uganda
 -   **Public map/listing reference:** 9HQV+J4X / 9HQV+J4V area,
     Kisaasi--Kyanja Rd, Kampala
 -   **Verified public phone:** 0754 852 452
@@ -47,6 +47,18 @@ https://galego.cybo.com/UG/kasangati/sal%C3%B3ns-de-beleza?p=2
 
 Do **not** copy information from unrelated businesses named "Beauty
 Secret Salon" in other countries.
+
+------------------------------------------------------------------------
+
+## Client-confirmed business information
+
+- **Official motto:** `Adding care to your beauty`
+- **Confirmed directions:** `Kisaasi–Kyanja Road, at the junction to Komamboga, opposite Prime Petrol Station, Kampala, Uganda.`
+- **Google-listed opening hours:** Monday–Sunday, 8:00 AM – 10:30 PM
+- **Preferred website display:** `Open daily · 8:00 AM – 10:30 PM`
+- **Service data priority:** Client-supplied services and prices take priority over service categories shown by Google.
+
+These details are CLIENT-CONFIRMED and must not be replaced with guessed wording.
 
 ------------------------------------------------------------------------
 
@@ -270,7 +282,7 @@ Use a strong real/improved salon visual or a suitable service image.
 
 Suggested direction for copy:
 
-**Headline:** `Your Look. Your Style. Your Beauty Secret.`
+**Headline:** `Adding care to your beauty`
 
 **Supporting copy:** A concise line explaining that Beauty Secret Salon
 offers professional hair, plaiting, nail and beauty services in
@@ -320,8 +332,7 @@ Include: - primary phone: `0754 852 452`; - secondary supplied number:
 call CTA; - WhatsApp CTA once the WhatsApp number is
 confirmed/configured; - map/directions link where practical.
 
-Do not invent business opening hours. If hours are not confirmed, omit
-them or leave them in site data as pending.
+Use the CLIENT-CONFIRMED Google-listed opening hours: Monday–Sunday, 8:00 AM – 10:30 PM. Display them on the website as `Open daily · 8:00 AM – 10:30 PM`.
 
 ------------------------------------------------------------------------
 

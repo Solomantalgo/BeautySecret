@@ -1,4 +1,4 @@
-const siteData={business:{name:"Beauty Secret Salon",location:"Kisaasi–Kyanja Road, Kampala, Uganda",primaryPhone:"0754 852 452",secondaryPhone:"0784 852 452",whatsappNumber:"256754852452",whatsappConfirmed:false},brand:{red:"#E31B23",deepRed:"#B5121B"},services:[
+const siteData={business:{name:"Beauty Secret Salon",location:"Kisaasi–Kyanja Road, at the junction to Komamboga, opposite Prime Petrol Station, Kampala, Uganda",primaryPhone:"0754 852 452",secondaryPhone:"0784 852 452",whatsappNumber:"256754852452",whatsappConfirmed:false},brand:{red:"#E31B23",deepRed:"#B5121B"},services:[
   {id:"haircuts",name:"Haircuts",image:"Men's haircut(Back view).jpg",services:[
     ["Men's Haircut","UGX 10,000","Men's haircut","Men's haircut(Back view).jpg"],["Women's Haircut","UGX 15,000","Women's haircut","Natural Hair styling.jpg"],["Kids Haircut","UGX 5,000","Kids haircut","kids Haircut.jpg"]]},
   {id:"nails",name:"Pedicure & Manicure",image:"Prdicure.jpg",services:[
